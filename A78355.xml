@@ -1,0 +1,621 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Archerie reviv'd: a poetical essay, penn'd upon occasion of the intended muster of the Company of Archers in Scotland, June 11. 1677</title>
+            <author>W. C.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1677</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78355</idno>
+            <idno type="STC">Wing C145</idno>
+            <idno type="STC">ESTC R232657</idno>
+            <idno type="EEBO-CITATION">99898028</idno>
+            <idno type="PROQUEST">99898028</idno>
+            <idno type="VID">171030</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171030)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2551:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Archerie reviv'd: a poetical essay, penn'd upon occasion of the intended muster of the Company of Archers in Scotland, June 11. 1677</title>
+                  <author>W. C.</author>
+               </titleStmt>
+               <extent>[8], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by the heir of Andrew Anderson, printer to His most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Archery --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171030:1" rendition="simple:additions"/>
+            <pb facs="tcp:171030:1" rendition="simple:additions"/>
+            <pb facs="tcp:171030:2"/>
+            <pb facs="tcp:171030:2"/>
+            <pb facs="tcp:171030:3"/>
+            <pb facs="tcp:171030:3" rendition="simple:additions"/>
+            <p>ARCHERIE REVIV'D: A Poëtical Eſſay, Penn'd upon occaſion of the intended Muſter of the Company of Archers in <hi>Scotland, June</hi> 11. 1677.</p>
+            <q xml:lang="lat">—Hae Nugae ſeria ducent.</q>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>EDINBURGH,</hi> Printed by the <hi>Heir</hi> of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty. 1677.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:171030:4"/>
+            <pb facs="tcp:171030:4"/>
+            <head>To the Moſt NOBLE and POTENT, JOHN MARQUESS of ATHOL, EARLE OF <hi>ATHOL</hi> and <hi>T<g ref="char:V">Ʋ</g>LLIBARDIN,</hi> LORD <hi>M<g ref="char:V">Ʋ</g>RRAY</hi> and <hi>GASK,</hi> &amp;c. LORD KEEPER Of His <hi>Majeſties</hi> Privy Seal in the Kingdom of <hi>Scotland,</hi> and one of the moſt Honourable Members of His <hi>Majeſties</hi> Privy Council; one of the Commiſſioners of His <hi>Ma<g ref="char:EOLhyphen"/>jeſties</hi> Theſaury and Exchequer; Captain of His <hi>Majeſties</hi> Life-Guard of Horſe: And Captain of the Noble and Generous Company of Archers in that Kingdom.</head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>HE great Bleſſing of Peace being the Improve<g ref="char:EOLhyphen"/>ment of Arts, and that of War, ſo long as this Maſs of Earth continues in its Fabrick of Creation, beyond all Diſpute moſt uſeful; To cultivate this Art in time of Peace, is no leſs the Intereſt of Mankind, than it is in Summer to pro<g ref="char:EOLhyphen"/>vide Food and Raiment for the Winter; Peace and War ſuc<g ref="char:EOLhyphen"/>ceeding
+<pb facs="tcp:171030:5"/> each other by ſhort Intervalls, ſo naturally, and al<g ref="char:EOLhyphen"/>moſt with the Motion of the Sun in the Zodiack.</p>
+            <p>The Practice then of this Art, ſince firſt Man begun to looſe the Reins of his Choller, (continued through a long Tract of Ages to this hour) having rendered it no leſs honourable than its firſt Inſtitution was neceſſar, it cannot but be agree<g ref="char:EOLhyphen"/>able to the Genius of Mankind, to proſecute an Art Neceſ<g ref="char:EOLhyphen"/>ſary, <g ref="char:V">Ʋ</g>ſeful, and Honourable.</p>
+            <p>Nor is the uſe of Arms (even the length of an Imagi<g ref="char:EOLhyphen"/>nary War) to be intermitted in the higheſt <hi>Criſis</hi> of the moſt ſerene Peace, unleſs the one half of the World reſolve to become ſlaves to the other; Liberty being ſcituate like the Brain, which though it rest ſecure in the immediate embra<g ref="char:EOLhyphen"/>ces of a <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a Mater,</hi> yet if not guarded by the triple Contra<g ref="char:EOLhyphen"/>vallation of a <hi>dura Mater, Scull</hi> and <hi>Pericranium,</hi> the firſt being a very tender Membrane, were not able of it ſelf to protect it from Injury: So Peace, if not fortified by a continual Guard and a constant Exerciſe of Arms, is not able of it ſelf to preſerve it ſelf, nor maintain the Liberty of the great Monarchies or ſmallest Eſtates and Republicks; as the jealous Practice of <hi>Luca, Geneve, Ragouſe,</hi> and ma<g ref="char:EOLhyphen"/>ny other States do fully evidence; nor do I think that Nation worthy of Peace, who neglects the uſe of Arms, when they have attain'd it.</p>
+            <p>Beſides, my Lord, if I were <g ref="char:V">Ʋ</g>mpyre in the Quarrel be<g ref="char:EOLhyphen"/>twixt thoſe two famous Rivals of the World, <hi>Peace</hi> and <hi>War;</hi> I could almoſt declare the <hi>Firſt</hi> more injurious to the <hi>Latter,</hi> than the <hi>Latter</hi> to it; War both procuring and preſerving Peace: But Peace (ſomewhat ungrate) in a few years oft<g ref="char:EOLhyphen"/>times deſtroying its Rival, rendering the Spirits of Men by ſoft eaſe, and its conſequences, ſo unapt for War, as by this ſubtile inſinuation of Peace, like that of the Serpent in Para<g ref="char:EOLhyphen"/>diſe, Nations have on a ſudden forfeit their Liberty, Ho<g ref="char:EOLhyphen"/>nour and Peace it ſelf. This Conſideration made the Poet juſtly exclaim of the ſtate of the Roman Empire in his time,
+<q xml:lang="lat">
+                  <pb facs="tcp:171030:5"/>
+                  <l>Nunc patimur longae Pacis mala, ſaevior armis</l>
+                  <l>Luxuria incubuit, victumque ulciſcitur Orbem.</l>
+               </q>
+            </p>
+            <p>The repoſe of a few moneths in <hi>Capua</hi> made ſoon an Ar<g ref="char:EOLhyphen"/>my that had jumpt over the <hi>Pyrences</hi> and <hi>Alps,</hi> as though they had been Mole hills, ſweep'd with their very breath their way to <hi>Cannae,</hi> and from thence cut out a paſſage to <hi>Rome;</hi> and became ſo terrible, as Fame it ſelf could hardly repreſent the Valour of it in her magnifying Glaſs: This ſame formidable and well diſciplin'd Army, a few moneths eaſe made no leſs contemptible and ridiculous than a Company of drunken Boors at a Low-Dutch Fair. Whereas the Practice and <g ref="char:V">Ʋ</g>ſe of warlike Exerciſes in time of Peace, pre<g ref="char:EOLhyphen"/>ſerves and maintains it firmly; no Nation being more ſe<g ref="char:EOLhyphen"/>cure, than that which is perfect in the Art of War.</p>
+            <p>The Conqueſt of the ſoft and peaceable <hi>Eaſtern</hi> Nations, was but the buſineſs of an ordinary Compagne or two, to the meaneſt of the Roman Generals; thoſe effeminate Gallants hugging ſo their <hi>Delilah of Peace,</hi> as they permitted her to cutt their Hair, and deprive them of both Strength and Cou<g ref="char:EOLhyphen"/>rage: But, to disturb the peace of the Western or Northern Nations accuſtomed to War, was a Province only for a <hi>Cae<g ref="char:EOLhyphen"/>ſar,</hi> a <hi>Germanicus,</hi> an <hi>Agricola,</hi> or the like, <hi>Nec facile vincuntur vincere, (non vinci) aſſueti.</hi>
+            </p>
+            <p>Pray, what did all the <hi>Romans</hi> huffings upon the <hi>Rhine</hi> for ſome hundred years produce? when they thought forſooth they had ſecured that vaſt Continent betwixt the <hi>Alps</hi> and the <hi>German-Ocean,</hi> what ſays their Noble and Ingenuous Historian? why after he has reckoned up a great many Con<g ref="char:EOLhyphen"/>ſuls, Generals, Emperors, affronted, diſgraced, and defeat in ſubduing thoſe ſtubborn Warriours, many Legions cut off, much Time and Treaſure ſpent, <hi>Germani</hi> (ſayes he) <hi>magis triumphati quam victi ſunt;</hi> they were forc'd for honours cauſe, to reſt contented with an imaginary Conqueſt of that warlike Nation; a virtue ſo tranſmitted to their poſterity, that how dear the <hi>Germans</hi> yet esteem their Liberty, may appear by our weekly Gazetts. Nay this very day we know,
+<pb facs="tcp:171030:6"/> that the <hi>Turk</hi> having found the Buſineſs with the <hi>Sterne</hi> and <hi>Martial Pole</hi> too hot, has now tack'd about, and is forced to turn his conquering Arms againſt the more peaceable and ſoft <hi>Ruſſian,</hi> whom if not aſſiſted by the other <hi>Europaeans,</hi> he may bring in ſome Diſtreſs.</p>
+            <p>To relate how much our Nation, (however traduced by our un<g ref="char:EOLhyphen"/>kind ſcribling Neighbours) has maintain'd its Liberty againſt a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Aſſailants, and though ſometimes over-run by powerful Armies, yet never loſing Courage, or embracing the title of Conquered (as thoſe who brag more of their valour have done) but ſtill rallying and recovering their ground, not to be conquered by <hi>Arms,</hi> but a <hi>glorious Succeſſion only;</hi> were, my Lord, to make an Hiſtorie of an intended Epiſtle Dedi<g ref="char:EOLhyphen"/>catory, and therefore rather to be pointed at, than tyranni<g ref="char:EOLhyphen"/>callie to impoſe the Patience upon your Lordſhip of an ample Rehearſal: which ſhould I in this place attempt, the ſame might be ſaid of this Piece, as the Stoick ſaid of the city <hi>Mindas,</hi> the Ports were ſo big, and the Town ſo little, he was afraid it might eſcape out at the Ports.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>pon theſe grounds then, my Lord, having endeavoured to prove that the exerciſe of War is the only Bullwark of Peace; I do now ſubſume, at leaſt preſume, that amongſt all the methods of War known in Hiſtorie, that of <hi>Archery,</hi> being ſince the memory of Man univerſally practiſed (though now by the uſe of fire-arms almoſt only reſerv'd for ſport) is the moſt noble and uſeful, and by conſequence the moſt neceſſarie to be cultivate, whilst now we are bleſsed with Peace, that we may be in readineſs for War; the Bow having been, before the invention of Guns, the only recei<g ref="char:EOLhyphen"/>ved weapon, and if well uſed, I am confident of equal force in Battel, though not of ſo much noiſe, as the Muſquet, now only in uſe amongſt thoſe, whoſe Predeceſſors excelled in Archery, and the uſe of Bow.</p>
+            <p>Since then, my Lord, your Lordſhip has thought it worth your paines to revive in this Nation, the almoſt extinguiſhed Art of Archery, and by your own Example (worthie of one de<g ref="char:EOLhyphen"/>ſcended of ſo Noble and Ancient a Line of Ancestors, Fa<g ref="char:EOLhyphen"/>mous
+<pb facs="tcp:171030:6"/> both in Peace and War) to encourage all the Nobility, Gen<g ref="char:EOLhyphen"/>try, and Commons of this Kingdom, to reſume the Exerciſe of an Art ſo much hitherto neglected. As the whole Nation with one voice do owne the Obligation to your Lordſhips ge<g ref="char:EOLhyphen"/>nerous Endeavours, hoping that from your Lordſhips Original, many thouſand Copies may be quickly diſperſed, and tranſ<g ref="char:EOLhyphen"/>mitted to Poſterity. So I having the honour to be of that worthy Society, of which your Lordſhip is pleaſed to recieve the Title of Captain; and not in good capacity to attend your Lordſhip in the Complement of Parade (being yet but a bad Proficient in the Art) am ambitious by another Art (in which I pretend to ſome ſmattering Knowledge) to demonſtrate in the enſuing Poëtical Eſſay, how much in the general Concurrence of the Nation, a particular Perſon may expreſs himſelf,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Lordſhips moſt Humble and moſt Devoted. <hi>W. C.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:171030:7"/>
+            <pb n="1" facs="tcp:171030:7"/>
+            <head>Archery Reviv'd.</head>
+            <lg>
+               <l>TO rake the Bowels of Antiquity,</l>
+               <l>In ſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ting out the Praiſe of <hi>Archery;</hi>
+               </l>
+               <l>Or rouze our valiant Predeceſſours Ghoſts,</l>
+               <l>Of whoſe bold Actings grave tradition boaſts,</l>
+               <l>Only to ſhow us how in every Age</l>
+               <l>Our Archer did excell, in Martial Rage;</l>
+               <l>Or ſtate the Queſtion 'twixt the <hi>Bow</hi> and <hi>Gun,</hi>
+               </l>
+               <l>Which of thoſe Champions have moſt Honour won?</l>
+               <l>Or which o'th two in Field moſt uſeful are,</l>
+               <l>To carry on the Motions of a War?</l>
+               <l>Were a brave Subject, ſuch as might infuſe</l>
+               <l>Thoughts, worth the Labour of a Nobler Muſe</l>
+               <l>To mould in Verſe, than any I pretend</l>
+               <l>To be of my acquaintance; And if penn'd</l>
+               <l>By one whoſe envy'd Leaſure doth licence,</l>
+               <l>With what in others we can ſcarce diſpenſe,</l>
+               <l>Though done in faſhion of a ſcantling Proëme,</l>
+               <l>Would bear the Name of an Heroick Poëme.</l>
+            </lg>
+            <lg>
+               <l>But I who am allow'd by ſullen Fate</l>
+               <l>To live in ſilence, 'cauſe our wits do hate</l>
+               <l>All Native Product; and with pain do read</l>
+               <l>Ought that derives its Birth from this ſide <hi>Tweed,</hi>
+               </l>
+               <lg>
+                  <l>I cannot ſafely trade in ſuch a Theme,</l>
+                  <l>Unleſs I enter'd in a ſtrangers name,</l>
+                  <l>And ſo perhaps it may procure Eſteem:</l>
+               </lg>
+               <l>For where our own will ſtrictly ſurvey'd be,</l>
+               <l>A ſtrangers would at leaſt paſs Cenſure-free.</l>
+            </lg>
+            <lg>
+               <l>Yet maugre all thoſe counter-checks of Fate,</l>
+               <l>I'le venture on it, and expatiate</l>
+               <pb n="2" facs="tcp:171030:8"/>
+               <l>A little on the Subject: 'ſpecially</l>
+               <l>In honour of <hi>a brave fraternity:</hi>
+               </l>
+               <l>Whoſe joynt endeavors might with eaſe contrive</l>
+               <l>A better Art then this, far more revive</l>
+               <l>An Art ſcarce yet extinct, an Art which all</l>
+               <l>Once practis'd; an Art Epidemicall.</l>
+               <l>Yet will I not extoll this Art ſo high,</l>
+               <l>As with it's rivalls may beget envy:</l>
+               <l>Decrying Wars inventions of late;</l>
+               <l>No, I'le not bend my Bow at ſuch a rate:</l>
+               <l>Leſt while in praiſe of Archery I ſing,</l>
+               <l>The Bow too much bent may un-nock the ſtring.</l>
+               <l>Nor will I give directions for the Bow,</l>
+               <l>That were to teach an Art, I do not know:</l>
+               <l>But modeſtly i'le comment on the Game,</l>
+               <l>In praiſe of all who bear an Archers name.</l>
+               <l>"For many one do talk, (as all men know)</l>
+               <l>"Of <hi>Robin-Hood,</hi> who ne're ſhot in his Bow.</l>
+            </lg>
+            <lg>
+               <l>If Arts perfection do conſiſt in that,</l>
+               <l>We thereby nature ſtrive to imitate:</l>
+               <l>And every Art derives it's excellence</l>
+               <l>From it's proximity to nature; thence</l>
+               <l>Archery may be tearm'd the nobleſt Art,</l>
+               <l>Which humane genius ever did impart.</l>
+               <l>It ſo approaches nature 'tis the ſame,</l>
+               <l>And differs from't in nothing but the name.</l>
+               <lg>
+                  <l>The Bull wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h horn, the Lyon with his paw</l>
+                  <l>Defends himſelf, and fights by natures law,</l>
+                  <l>And man by the ſame rule his Bow doth draw.</l>
+               </lg>
+               <l>The Bow ſo ancient in it's prim<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tive uſe,</l>
+               <l>As it appears, Dame nature did infuſe</l>
+               <l>The knowledge of it, to be learn'd by nought</l>
+               <l>But proper inſtinct: and ſo cheaply bought,</l>
+               <l>As thoſe, who ne're were bleſt with knowing Art;</l>
+               <l>Yet, in this knowledge, have been f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und expert.</l>
+               <l>Witneſs thoſe Heroes, who practis'd the Game,</l>
+               <pb n="3" facs="tcp:171030:8"/>
+               <l>Before invention did receive a name.</l>
+               <l>Before the race of man yet underſtood,</l>
+               <l>What 'twas to bath their ſhafts in humane blood:</l>
+               <l>Before their choller did advance ſo far,</l>
+               <l>As to engage them in a civill war.</l>
+               <l>Theſe only uſ'd their Bows to purchaſe food,</l>
+               <l>So much as frugal nature then allow'd;</l>
+               <l>Fierce in the ſport, and eager in the chace,</l>
+               <l>Of all alive, ſave their own ſpecies.</l>
+               <l>Yea, wh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the race increaſ'd, and private jarrs</l>
+               <l>At firſt d d ſquander into open wars;</l>
+               <l>The Bow did chiefly ſerve them, to annoy</l>
+               <l>Each other, which before they did employ</l>
+               <l>In ſports more innocent: and with ſuch force</l>
+               <l>They'd uſe their Bows, as neither Foot, nor Horſe</l>
+               <l>Could then ſuſtain their fury: nothing more</l>
+               <l>Deſtructive of mankind: and where before</l>
+               <l>Through Herds of beaſts their Arrows would make way,</l>
+               <l>They now were forc'd to fight themſelves at bay</l>
+               <l>Agai<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt each other: whil'ſt the Birds and Beaſts,</l>
+               <l>(Who look'd upon mens battels as their Feaſts,)</l>
+               <l>Would ſtand aloofe, untill the angry Bow</l>
+               <l>Had done it's office; and revenged ſo</l>
+               <l>Their quarrel, then they would advance apace,</l>
+               <l>And feed upon the bleeding carcaſſes,</l>
+               <l>Tearing the bowels of the yet half-dead</l>
+               <l>Of ſuch as on their Anceſtors did feed:</l>
+               <l>Theſe were the only Victors, of the prey</l>
+               <l>Theſe Maſters were, who ever had the day.</l>
+               <l>Plump with ſuch food, they'd to the Woods reſort,</l>
+               <l>VVhere man purſuing of his native ſport,</l>
+               <l>VVould kill thoſe Conq'rors; and ſo feed upon</l>
+               <l>His own fleſh in a piece of Veniſon.</l>
+               <l>Thus did the active Bow make ſport and war,</l>
+               <l>Aſſiſting man, in what he e're would dare</l>
+               <l>So fortunately, as it ſoon became</l>
+               <l>The proper inſtrument of a VVarriors fame.</l>
+            </lg>
+            <lg>
+               <pb n="4" facs="tcp:171030:9"/>
+               <l>VVhen bold <hi>Columbus</hi> plough'd the weſtern Seas,</l>
+               <l>And with rude keele diſturbed natures eaſe;</l>
+               <l>Approaching gently to that happy ſhore,</l>
+               <l>VVhich never had ſeen Maſts, or Sails before;</l>
+               <l>Some thouſand Indians, with their Bows in hand</l>
+               <l>Appear'd to diſpute his deſcent on Land;</l>
+               <l>Thoſe naked varlets, who no art did know,</l>
+               <l>Pray who did teach thoſe Lads the uſe of Bow?</l>
+               <lg>
+                  <l>From th'other World by Seas ſo ſeparate,</l>
+                  <l>As amongſt ſome it has begot debate,</l>
+                  <l>How theſe came thither from mount <hi>Ararat:</hi>
+                  </l>
+               </lg>
+               <l>From <hi>Affrick</hi> then, <hi>Europe,</hi> or <hi>Aſia</hi>
+               </l>
+               <l>Had they this Art? no, ſure, by natures law</l>
+               <l>They learn'd this Art at firſt, for ſelf-defence,</l>
+               <l>From which the art of War did ſoon commence.</l>
+               <l>Nor can we think that from thoſe ſavages</l>
+               <l>This noble Art to our World croſs'd the Seas;</l>
+               <l>Since ages, before that diſcovery</l>
+               <l>Each part o'th' World practiſed Archery.</l>
+            </lg>
+            <lg>
+               <l>All this kind nature taught then, t'evidence</l>
+               <l>Her care for mans food, and his ſelf-defence:</l>
+               <l>She generouſly taught her Sons to know</l>
+               <l>No other weapon, but the nervous Bow;</l>
+               <l>Of which the conſtant, and delightful uſe</l>
+               <l>Did ſoon the art of Archery produce;</l>
+               <l>An Art ſo grac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>full, as doth plainly ſhow</l>
+               <l>What pleaſure nature taketh in the Bow</l>
+               <lg>
+                  <l>Strong nerves, ſtreight joynts, a daring, conſtant eye,</l>
+                  <l>Are requiſite for compleat Archery,</l>
+                  <l>All which a compleat nature do imply.</l>
+               </lg>
+               <l>The Bow doth courage, health, and ſtrength improve,</l>
+               <l>Refreſheth nature, gently doth remove</l>
+               <l>Noyſome diſtempers, purifies the blood,</l>
+               <l>Encreaſeth natures heat, digeſts the good</l>
+               <l>And wholſome nutriment: expells the bad,</l>
+               <l>Cheriſheth jovial minds, revives the ſad</l>
+               <pb n="5" facs="tcp:171030:9"/>
+               <l>Dejected ſpirits, who at any price</l>
+               <l>Should much frequent this generous exerciſe.</l>
+               <l>In fine, this Art with nature ſo complies,</l>
+               <l>It hath the ſame friends, the ſame enemies:</l>
+               <l>Who e're loves health, and ſtrength, will love this Art,</l>
+               <l>Practiſe it often, hugg it in his heart;</l>
+               <l>And who loves neither, but deſires to dye,</l>
+               <l>Is both this Art, and natures enemie.</l>
+            </lg>
+            <lg>
+               <l>This Art our Anceſtors ſo well did know,</l>
+               <l>How both in war, and ſport to uſe the Bow;</l>
+               <l>That when their rage did coole, and ſofter peace</l>
+               <l>Allow'd their weary'd ſpirits ſome ſmall ſurceaſe</l>
+               <l>From wars conſuming toyl; leaſt idleneſs</l>
+               <l>Might damp their courage, and perhaps oppreſs</l>
+               <l>Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir active Vitals: they would ſtill foment</l>
+               <l>Their generous ſports with the ſame inſtrument.</l>
+               <l>Each Youth with Bow, and Quiver furniſhed</l>
+               <l>With ſtore of pointed Arrows, muſtered</l>
+               <l>In time, and places ord'red by the Law,</l>
+               <l>In ſelect Bands, This fair Militia</l>
+               <l>VVould with ſuch art, and vigour uſe the Bow,</l>
+               <l>And of their action make ſo goodly ſhow:</l>
+               <l>Such flights of Arrows at one luſty draught</l>
+               <l>Of brauny arms, whom exerciſe had taught,</l>
+               <l>VVould pierce the trembling azure altogether,</l>
+               <l>VVith ſuch a force, as one ſhould ſcarce know whether</l>
+               <l>Thoſe ſprightly Archers lov'd beſt peace, of war,</l>
+               <l>Making thoſe ſports only preliminar</l>
+               <l>To bloody conflicts. For when th'exerciſe</l>
+               <l>O'th' Bow, had made them gallantly deſpiſe</l>
+               <lg>
+                  <l>All battel-hazards, then with ſuch delight,</l>
+                  <l>VVith Bow in hand they'd march up to the fight,</l>
+                  <l>As if they were in Butts to ſnoot at white.</l>
+               </lg>
+               <l>VVho then had view'd our armies, would have ſaid</l>
+               <l>He ſee the pride of nature there diſplaid;</l>
+               <l>To ſee whole Squadrons of tall Archers ſtretch</l>
+               <pb n="6" facs="tcp:171030:10"/>
+               <l>Their joynts at once, as if they meant to reach</l>
+               <l>Their enemies with fiſts: and then advance,</l>
+               <l>With gracefull pace as if they were to dance;</l>
+               <l>Full ſtretched nerv's, and bodies full erected,</l>
+               <l>With cheerfull aſpect, which they much affected:</l>
+               <l>Then letting flye their Arrows all at once,</l>
+               <l>They'd make the welkin whiſtle for the nonce.</l>
+               <l>Rebounding ſtrings ſuch muſick would affoord,</l>
+               <l>As did <hi>Arion,</hi> when thrown over boord.</l>
+               <l>VVhich had <hi>Pythagoras</hi> heard, he had declar'd</l>
+               <l>That of his Planets nought with this compar'd.</l>
+               <l>Theſe gallant VVarriors fought with ſuch a grace,</l>
+               <l>Their bodies falling covered the place,</l>
+               <l>VVhere e'rſt they ſtood, and now depryv'd of breath,</l>
+               <l>They yet appear'd even gracefull in their death.</l>
+               <l>A feather'd Arrow in each bleeding breaſt</l>
+               <l>The valour of our Archers would atteſt.</l>
+               <l>The winged ſhaft did ſeldome miſſe its aime,</l>
+               <l>Such was the cunning of the noble Game.</l>
+            </lg>
+            <lg>
+               <l>VVhat brave exploits have been perform'd by Bows,</l>
+               <l>Who has but taſted hiſt'ry, fully knows,</l>
+               <l>They're famous in the mouths of every Boy</l>
+               <l>VVho has at Schools rehearſ'd the ſiege of <hi>Troy.</hi>
+               </l>
+               <l>The <hi>Amazonian</hi> valour to this day</l>
+               <l>Famous in hiſt'ry plainly doth diſplay</l>
+               <l>How much this active Art was in eſteeme,</l>
+               <l>By which a few Girls did procure the name</l>
+               <l>Of brave redoubted VVarriors; and 'tis known</l>
+               <l>How terrible the name of <hi>Amazon</hi>
+               </l>
+               <l>Was to the Eaſtern Nations; and how far</l>
+               <l>Theſe Laſſes did extend their fame by war,</l>
+               <l>Againſt the greateſt Monarchs then in power,</l>
+               <l>Whoſe guards one would ha'thought, might ſoon devour</l>
+               <l>Such troops of naked Sluts: yet by this Art,</l>
+               <l>(In which 'bove others they were then expert)</l>
+               <pb n="7" facs="tcp:171030:10"/>
+               <l>They have brought ſtrong and numerous Armies low,</l>
+               <l>And made the Sword and Lance ſtoop to the Bow.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Parthian</hi> Archer in his cunning Flight,</l>
+               <l>Would with his arrows ſo renew the Fight,</l>
+               <l>As thoſe, who did purſue their Victory,</l>
+               <l>VVere conquer'd by this ſubtile Archery.</l>
+            </lg>
+            <lg>
+               <l>The <hi>Scythian</hi> now by name of <hi>Tartar</hi> known,</l>
+               <l>Has won great Honour by this art alone;</l>
+               <l>Fighting on Horſe back with his Iron-bow</l>
+               <l>Great Armies he does quickly overthrow,</l>
+               <l>And to this day the archer <hi>Scythian</hi>
+               </l>
+               <l>Is terrible to th' <hi>Pole</hi> and <hi>Ruſsian.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>Engliſh</hi> Monarchs in their warrs of <hi>France,</hi>
+               </l>
+               <l>Did by the Bow their Honour much advance,</l>
+               <l>In three great Battels famous to this hour,</l>
+               <l>Of <hi>Creſſie, Pottiers,</hi> and of <hi>Agineour:</hi>
+               </l>
+               <l>VVhoſe grave Hiſtorians do confeſs they owe</l>
+               <l>Theſe Succeſſes entirely to the Bow.</l>
+            </lg>
+            <lg>
+               <l>Nor has our Nation leſs practiſ'd the Game,</l>
+               <l>And by the Bow deſerve their ſhare of Fame;</l>
+               <l>VVitneſs our warrs with <hi>Romans, Picts</hi> and <hi>Danes.</hi>
+               </l>
+               <l>VVhoſe Memory in Marble yet remains:</l>
+               <l>Where the brave Archer oft did overthrow</l>
+               <l>Well order'd Legions, with his faithful Bow:</l>
+               <l>By this our Kings their Crown and Scepter held,</l>
+               <l>By this the Engliſh Force we oft repell'd,</l>
+               <l>Maintaining ſtoutly thoſe in<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umane Jarrs,</l>
+               <l>Scarce by the Union yet made <hi>Civil Warrs.</hi>
+               </l>
+               <l>Since firſt the <hi>Balliols unhappy Caſe,</hi>
+               </l>
+               <l>Umpyr'd by <hi>Edward Longſhanks</hi> broke the Peace;</l>
+               <l>The two brave Nations, living formerly</l>
+               <l>In ſtricteſt Bonds of love, and amity,</l>
+               <l>Begun to briſtle, and have ever ſince,</l>
+               <l>('Till become Subjects of one Glorious Prince)</l>
+               <l>Diſpute the Caſe ſo warmly, as (God knows)</l>
+               <l>What ſlaughter on each ſide, by ſtubborn Bows</l>
+               <l>Have been perform'd: what <hi>Romans, Saxons, Danes,</hi>
+               </l>
+               <pb n="8" facs="tcp:171030:11"/>
+               <l>And <hi>Normans</hi> ſpar'd, that Blood, on <hi>Britiſh</hi> plains,</l>
+               <l>By <hi>Britiſh</hi> hands, ſo prodigally ſpent,</l>
+               <l>Shows that our Bows in vain were never bent,</l>
+               <l>From <hi>Trent</hi> to <hi>Tine,</hi> from thence to th'Banks of <hi>Tweed,</hi>
+               </l>
+               <l>
+                  <hi>Forth, Tay,</hi> and <hi>Clyde,</hi> who cannot plainly read</l>
+               <l>The Hiſtory of our Iſlands warrs, and thence</l>
+               <l>May underſtand both Nations Excellence,</l>
+               <l>In knowledge of the Uſe of warlike Bow,</l>
+               <l>Better than from <hi>Speed, Hollingſhed,</hi> or <hi>Stow;</hi>
+               </l>
+               <l>Who by their bold writing Prerogative,</l>
+               <l>Do alwayes place us on the Defenſive.</l>
+               <l>Though ſome of their own VVriters do averr,</l>
+               <l>The one as oft as th'other Vanquiſher.</l>
+               <l>But as our Difference one Succeſſion wrought,</l>
+               <l>So has another to this Iſland brought,</l>
+               <l>A fair Attonement, making Quarrels ceaſe,</l>
+               <l>And (ſave in words) has bound us to the Peace.</l>
+            </lg>
+            <lg>
+               <l>All theſe were <hi>Feather'd VVarrs,</hi> and juſtly claime</l>
+               <l>No ſmall proportion in the <hi>VVings of Fame:</hi>
+               </l>
+               <l>Our Nation in the Bow did much delight,</l>
+               <l>Whether they were for Sport, or meant to fight.</l>
+               <l>Though now with uſe of Fire-arms ſo indu'd,</l>
+               <l>The Bow has almoſt gone in Deſuetude:</l>
+               <l>If ſo the ancient <hi>Scots,</hi> who ſtill remain</l>
+               <l>In their firſt Love, did not yet entertain</l>
+               <l>This Princely Art, which elſe would ſure expire,</l>
+               <l>If like the Embers of an evening Fire,</l>
+               <l>The Northern Climate had not all this while,</l>
+               <l>Cheriſh'd this Art, and keep'd it on the File;</l>
+               <l>
+                  <hi>Glenlivet</hi> Battel, where Hiſtorians ſay,</l>
+               <l>The Arrows did obſcure the light of day</l>
+               <l>For ſome good ſpace, doth openly declare,</l>
+               <l>How much in this art the bold <hi>Highlander</hi>
+               </l>
+               <l>Excells; to thoſe, to thoſe alone we owe,</l>
+               <l>The Reliques of th'almoſt extinguiſht Bow.</l>
+            </lg>
+            <lg>
+               <l>Hence a moſt <hi>Noble Hero</hi> much inclin'd,</l>
+               <l>Yet to revive this Art, has now deſign'd</l>
+               <lg>
+                  <pb n="9" facs="tcp:171030:11"/>
+                  <l>T'erect again the Arms of Archery,</l>
+                  <l>And counterballance bold antiquity,</l>
+                  <l>In a moſt flouriſhing Society.</l>
+               </lg>
+               <lg>
+                  <l>To whoſe Endeavours, ſince the Nation owes</l>
+                  <l>The now received Exerciſe of Bows:</l>
+                  <l>Were I as knowing in <hi>Thalîas</hi> art,</l>
+                  <l>As theſe are in the uſe of Bows expert,</l>
+                  <l>I'de ſing the boiſtrous thundring Cannon dumb,</l>
+                  <l>In the Clarind of their Encomium.</l>
+               </lg>
+               <lg>
+                  <l>Yet I am hopeful by this rude Eſſay,</l>
+                  <l>I may to quainter Muſes ſhow the way,</l>
+                  <l>And uſher in, of ſome more happy Brain,</l>
+                  <l>The richer Fancy, and excite their Pen.</l>
+               </lg>
+               <lg>
+                  <l>And now, though I did promiſe formerly,</l>
+                  <l>I 'de not warrs late inventions decry;</l>
+                  <l>Yet warm i'th Subject, I cannot refraine,</l>
+                  <l>But muſt a little on our Times complain,</l>
+                  <l>Who have careſſ'd theſe late Inventions ſo,</l>
+                  <l>As they've too much neglected th'uſe of Bow.</l>
+               </lg>
+               <lg>
+                  <l>Pity then, ſuch an Art ſhould be out-done,</l>
+                  <l>By th'airy Fanfara's of <hi>Monſieur Gun,</hi>
+                  </l>
+                  <l>That roaring Gallant, who the world doth choak</l>
+                  <l>By his continual Storms of Fire and Smoak.</l>
+                  <l>That flaming <hi>Hector,</hi> whoſe aſiduous Uſe,</l>
+                  <l>Has made the world a meere <hi>Veſuvious.</hi>
+                  </l>
+                  <l>Proud of his Conqueſts, o're the generous Bow</l>
+                  <l>In <hi>Brazil, Peru,</hi> and in <hi>Mexico;</hi>
+                  </l>
+                  <l>Where with his (there unheard-of) Smoak and Thunder,</l>
+                  <l>He broke the Archer-ſquadrons all aſſunder.</l>
+                  <l>On him do all now doat, and plainly ſhow</l>
+                  <l>A general Contempt o'th Noble Bow.</l>
+                  <l>Our Gallants now in Gun do ſo delight,</l>
+                  <l>As they their worthy anceſtors do ſlight,</l>
+                  <l>Upbraiding them for their ſo mean a choiſe,</l>
+                  <l>As that o'th Bow, an Exerciſe for Boyes,</l>
+                  <l>Compar'd with their <hi>Monks-Brat,</hi> that <hi>Spurious Rogue</hi>
+                  </l>
+                  <l>By heavens anger only now in vogue:</l>
+                  <pb n="10" facs="tcp:171030:12"/>
+                  <l>Who doth derive his Genealogie,</l>
+                  <l>From an officious Piece of Chymiſtry,</l>
+                  <l>Conceiv'd without Nature or Arts Conſent,</l>
+                  <l>And thruſt into the world by <hi>Accident.</hi>
+                  </l>
+                  <l>Yet has this Monſter gain'd ſo great applauſe,</l>
+                  <l>As both to VVar and Peace he now gives Laws;</l>
+               </lg>
+               <lg>
+                  <l>Yea at this time, our Gunners poſſibly</l>
+                  <l>Do look upon this Show of Archery,</l>
+                  <l>As a meer formal piece of Pageantry.</l>
+               </lg>
+               <l>Well, Gentlemen, who knows but in the Nation,</l>
+               <l>Th'old-faſhion'd Bow may yet become in Faſhion;</l>
+               <l>This is but its firſt Tryal, and we hope</l>
+               <l>Our Archers ſhortly may the Gunning-fop</l>
+               <l>Out-ballance; nay perhaps ere all be done,</l>
+               <l>He'l quaſh the roaring Language of the Gun.</l>
+            </lg>
+            <lg>
+               <l>"Mean time ſpeak good of Archers, and be low,</l>
+               <l>"For all your Fathers ſhot once in a Bow.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:171030:12"/>
+            <pb facs="tcp:171030:13"/>
+            <pb facs="tcp:171030:13" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
